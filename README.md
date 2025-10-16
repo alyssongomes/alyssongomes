@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🏢 I’m currently working with Data Engineer
-- 📓 Learning Databricks and Cloud technologies
+- 📓 Learning Lakehouse and Cloud technologies
 
 <div>
   <a href="https://github.com/alyssongomes">
