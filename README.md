@@ -24,13 +24,16 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-apachespark" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Rafa-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Rafa-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Rafa-postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Rafa-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Rafa-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
+  <img align="center" alt="Rafa-postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Rafa-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg">
   <img align="center" alt="Rafa-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+  <img align="center" alt="Rafa-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Rafa-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg">
   <img align="center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/snowflake-auto.svg" width="30" height="40" alt="@snowflake">
   <img align="center" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/databricks-auto.svg" width="30" height="40" alt="@databricks">
 </div>
